@@ -40,4 +40,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-Special thanks to **Professor Christopher Kitts**.
+Special thanks to **Professor Christopher Kitts: https://www.scu.edu/engineering/faculty/kitts-christopher/**.
